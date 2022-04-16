@@ -2,4 +2,4 @@
 
 JavaScript practise
 
-This project deployed with Netlify >>> https://oguzhan-exact-age-calulator.netlify.app/
+This project deployed with netlify >>> https://oguzhan-exact-age-calulator.netlify.app/
