@@ -2,4 +2,4 @@
 
 JavaScript practise
 
-This project deployed with Github >>> https://oguzhan-ucar.github.io/digital-clock/
+This project deployed with github >>> https://oguzhan-ucar.github.io/digital-clock/
