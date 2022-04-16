@@ -1,4 +1,4 @@
-# Digital-Clock
+# Exact age calculator
 
 JavaScript practise
 
