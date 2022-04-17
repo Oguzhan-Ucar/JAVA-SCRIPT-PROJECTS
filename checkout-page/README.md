@@ -1,3 +1,3 @@
 # Checkout Page
 
-JavaScript practise
+JavaScript practice
