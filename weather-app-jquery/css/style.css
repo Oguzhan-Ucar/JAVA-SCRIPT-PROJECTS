@@ -277,3 +277,17 @@ body {
 .api a:hover {
   text-decoration: none;
 }
+
+
+#textarea {
+  margin-left: 350px;
+  margin-top: 25px;
+}  
+
+.container{
+margin-top:50px;
+}
+
+#logo{
+  margin-left: 525px;
+}

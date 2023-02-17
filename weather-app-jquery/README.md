@@ -1,3 +1,3 @@
 # Weather App Jquery
 
-JavaScript practice
+<img src="weather-app.gif">
