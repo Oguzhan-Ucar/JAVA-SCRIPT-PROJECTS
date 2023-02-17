@@ -60,6 +60,7 @@
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 15px;
+    
   }
   
   
@@ -276,3 +277,18 @@
   .api a:hover {
     text-decoration: none;
   }
+
+
+#textarea {
+  margin-left: 350px;
+  margin-top: 25px;
+}  
+
+.container{
+margin-top:50px;
+}
+
+#logo{
+  margin-left: 525px;
+}
+
